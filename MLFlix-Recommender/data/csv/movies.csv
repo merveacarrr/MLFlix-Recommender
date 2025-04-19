@@ -1,0 +1,101 @@
+title,release_year,genre,director,description,average_rating
+Film 1,2023,Romantik,Alfred Hitchcock,Bu film TV Film türünde bir başyapıttır.,8.1
+Film 2,2001,Fantastik,Martin Scorsese,Bu film Savaş türünde bir başyapıttır.,4.6
+Film 3,2004,Korku,Alfred Hitchcock,Bu film Tarih türünde bir başyapıttır.,2.0
+Film 4,2010,Bilim Kurgu,Wes Anderson,Bu film Suç türünde bir başyapıttır.,2.6
+Film 5,1997,Fantastik,David Fincher,Bu film Drama türünde bir başyapıttır.,8.8
+Film 6,2014,Komedi,David Fincher,Bu film Aile türünde bir başyapıttır.,5.5
+Film 7,2007,Macera,Wes Anderson,Bu film Gerilim türünde bir başyapıttır.,9.9
+Film 8,1994,Savaş,Martin Scorsese,Bu film Aksiyon türünde bir başyapıttır.,4.4
+Film 9,2017,Aksiyon,James Cameron,Bu film Gizem türünde bir başyapıttır.,4.8
+Film 10,2005,Korku,Wes Anderson,Bu film Fantastik türünde bir başyapıttır.,5.1
+Film 11,2022,Animasyon,Steven Spielberg,Bu film Korku türünde bir başyapıttır.,1.6
+Film 12,2002,Belgesel,David Fincher,Bu film Savaş türünde bir başyapıttır.,10.0
+Film 13,2001,Belgesel,Alfred Hitchcock,Bu film Gerilim türünde bir başyapıttır.,5.4
+Film 14,1991,Tarih,Alfred Hitchcock,Bu film Romantik türünde bir başyapıttır.,5.4
+Film 15,2001,Romantik,Alfred Hitchcock,Bu film Macera türünde bir başyapıttır.,8.3
+Film 16,1992,Aile,James Cameron,Bu film Gizem türünde bir başyapıttır.,4.3
+Film 17,2013,Aile,Steven Spielberg,Bu film TV Film türünde bir başyapıttır.,9.0
+Film 18,2006,TV Film,Martin Scorsese,Bu film Komedi türünde bir başyapıttır.,5.3
+Film 19,1999,Savaş,Steven Spielberg,Bu film Fantastik türünde bir başyapıttır.,9.3
+Film 20,2004,Animasyon,Martin Scorsese,Bu film Belgesel türünde bir başyapıttır.,7.3
+Film 21,1995,Korku,Ridley Scott,Bu film Fantastik türünde bir başyapıttır.,5.9
+Film 22,2020,Aile,Wes Anderson,Bu film Tarih türünde bir başyapıttır.,5.1
+Film 23,2012,Müzik,James Cameron,Bu film Suç türünde bir başyapıttır.,3.9
+Film 24,2006,Macera,Christopher Nolan,Bu film Aksiyon türünde bir başyapıttır.,9.1
+Film 25,2013,Western,Quentin Tarantino,Bu film Macera türünde bir başyapıttır.,1.7
+Film 26,2020,Romantik,Steven Spielberg,Bu film Gizem türünde bir başyapıttır.,8.9
+Film 27,1997,Romantik,Christopher Nolan,Bu film Komedi türünde bir başyapıttır.,4.6
+Film 28,2007,TV Film,Christopher Nolan,Bu film Tarih türünde bir başyapıttır.,6.4
+Film 29,2002,Komedi,James Cameron,Bu film Aile türünde bir başyapıttır.,5.2
+Film 30,1999,Bilim Kurgu,Alfred Hitchcock,Bu film Gerilim türünde bir başyapıttır.,6.4
+Film 31,1999,Savaş,Martin Scorsese,Bu film Gerilim türünde bir başyapıttır.,9.7
+Film 32,2014,Gizem,Ridley Scott,Bu film Western türünde bir başyapıttır.,2.9
+Film 33,1991,Macera,Ridley Scott,Bu film Tarih türünde bir başyapıttır.,8.4
+Film 34,2008,TV Film,David Fincher,Bu film Aile türünde bir başyapıttır.,1.0
+Film 35,2019,Suç,Wes Anderson,Bu film Aile türünde bir başyapıttır.,1.3
+Film 36,1992,Tarih,Alfred Hitchcock,Bu film Romantik türünde bir başyapıttır.,6.0
+Film 37,2007,Fantastik,Wes Anderson,Bu film Savaş türünde bir başyapıttır.,7.7
+Film 38,2019,Romantik,James Cameron,Bu film Animasyon türünde bir başyapıttır.,2.5
+Film 39,2001,Savaş,James Cameron,Bu film Drama türünde bir başyapıttır.,9.7
+Film 40,2022,Macera,Ridley Scott,Bu film Komedi türünde bir başyapıttır.,3.3
+Film 41,2012,Korku,Ridley Scott,Bu film Komedi türünde bir başyapıttır.,7.2
+Film 42,1997,Western,Steven Spielberg,Bu film Aile türünde bir başyapıttır.,9.4
+Film 43,1999,Aile,Martin Scorsese,Bu film Gizem türünde bir başyapıttır.,6.0
+Film 44,1991,Gerilim,James Cameron,Bu film Gerilim türünde bir başyapıttır.,7.4
+Film 45,2005,Macera,Steven Spielberg,Bu film Gizem türünde bir başyapıttır.,4.5
+Film 46,2006,Aile,Steven Spielberg,Bu film Drama türünde bir başyapıttır.,9.5
+Film 47,2000,Komedi,David Fincher,Bu film Fantastik türünde bir başyapıttır.,7.4
+Film 48,2003,Aile,James Cameron,Bu film Korku türünde bir başyapıttır.,4.6
+Film 49,2016,Gerilim,Steven Spielberg,Bu film Bilim Kurgu türünde bir başyapıttır.,2.1
+Film 50,2023,Macera,Quentin Tarantino,Bu film Gerilim türünde bir başyapıttır.,7.6
+Film 51,2019,Animasyon,David Fincher,Bu film Savaş türünde bir başyapıttır.,2.9
+Film 52,1997,Belgesel,Wes Anderson,Bu film TV Film türünde bir başyapıttır.,8.4
+Film 53,2017,TV Film,Steven Spielberg,Bu film Macera türünde bir başyapıttır.,1.8
+Film 54,2005,Savaş,David Fincher,Bu film Drama türünde bir başyapıttır.,2.0
+Film 55,1991,TV Film,Alfred Hitchcock,Bu film Aile türünde bir başyapıttır.,3.0
+Film 56,1999,Savaş,Quentin Tarantino,Bu film Animasyon türünde bir başyapıttır.,8.4
+Film 57,2017,Aile,Martin Scorsese,Bu film Fantastik türünde bir başyapıttır.,6.6
+Film 58,2020,Savaş,James Cameron,Bu film Aile türünde bir başyapıttır.,7.9
+Film 59,1992,Bilim Kurgu,Wes Anderson,Bu film Macera türünde bir başyapıttır.,1.9
+Film 60,2020,Macera,Christopher Nolan,Bu film Aksiyon türünde bir başyapıttır.,8.7
+Film 61,1993,Drama,David Fincher,Bu film Aile türünde bir başyapıttır.,5.2
+Film 62,2021,Müzik,James Cameron,Bu film Komedi türünde bir başyapıttır.,2.2
+Film 63,2001,Suç,Christopher Nolan,Bu film Gizem türünde bir başyapıttır.,6.9
+Film 64,2006,Savaş,Steven Spielberg,Bu film Aile türünde bir başyapıttır.,2.8
+Film 65,1991,Suç,Christopher Nolan,Bu film Bilim Kurgu türünde bir başyapıttır.,6.0
+Film 66,1992,Romantik,Martin Scorsese,Bu film Aksiyon türünde bir başyapıttır.,8.7
+Film 67,2009,Suç,James Cameron,Bu film Gizem türünde bir başyapıttır.,1.8
+Film 68,2014,Tarih,Quentin Tarantino,Bu film Aksiyon türünde bir başyapıttır.,4.9
+Film 69,1993,Suç,Alfred Hitchcock,Bu film Korku türünde bir başyapıttır.,9.1
+Film 70,1995,Müzik,Wes Anderson,Bu film Suç türünde bir başyapıttır.,2.8
+Film 71,2003,Gerilim,Steven Spielberg,Bu film Belgesel türünde bir başyapıttır.,8.3
+Film 72,2015,Savaş,Christopher Nolan,Bu film Animasyon türünde bir başyapıttır.,6.2
+Film 73,2016,Suç,Steven Spielberg,Bu film Gizem türünde bir başyapıttır.,6.1
+Film 74,2009,Aksiyon,Martin Scorsese,Bu film Belgesel türünde bir başyapıttır.,4.7
+Film 75,2007,Savaş,Martin Scorsese,Bu film Romantik türünde bir başyapıttır.,1.1
+Film 76,1994,Müzik,Quentin Tarantino,Bu film Macera türünde bir başyapıttır.,1.7
+Film 77,1995,Drama,Ridley Scott,Bu film Korku türünde bir başyapıttır.,6.3
+Film 78,1995,Belgesel,Wes Anderson,Bu film Bilim Kurgu türünde bir başyapıttır.,2.7
+Film 79,1993,Müzik,Quentin Tarantino,Bu film Komedi türünde bir başyapıttır.,2.2
+Film 80,2017,Aksiyon,Wes Anderson,Bu film Animasyon türünde bir başyapıttır.,4.0
+Film 81,1990,Müzik,Ridley Scott,Bu film Savaş türünde bir başyapıttır.,4.8
+Film 82,2017,Romantik,David Fincher,Bu film Komedi türünde bir başyapıttır.,6.9
+Film 83,1992,Müzik,Steven Spielberg,Bu film Belgesel türünde bir başyapıttır.,2.4
+Film 84,2023,Aile,Wes Anderson,Bu film Aile türünde bir başyapıttır.,3.2
+Film 85,2011,Western,Wes Anderson,Bu film Bilim Kurgu türünde bir başyapıttır.,3.4
+Film 86,2008,Tarih,Steven Spielberg,Bu film Aile türünde bir başyapıttır.,2.8
+Film 87,2022,Romantik,Quentin Tarantino,Bu film TV Film türünde bir başyapıttır.,2.4
+Film 88,1994,Aile,James Cameron,Bu film Tarih türünde bir başyapıttır.,4.2
+Film 89,2009,Komedi,Martin Scorsese,Bu film Macera türünde bir başyapıttır.,5.7
+Film 90,2006,Savaş,Alfred Hitchcock,Bu film Savaş türünde bir başyapıttır.,2.8
+Film 91,2003,Romantik,Martin Scorsese,Bu film Fantastik türünde bir başyapıttır.,8.1
+Film 92,1995,Fantastik,Christopher Nolan,Bu film Romantik türünde bir başyapıttır.,7.3
+Film 93,2002,Tarih,Steven Spielberg,Bu film Gizem türünde bir başyapıttır.,1.9
+Film 94,1990,Drama,Martin Scorsese,Bu film Aile türünde bir başyapıttır.,5.8
+Film 95,2017,TV Film,James Cameron,Bu film Aksiyon türünde bir başyapıttır.,4.7
+Film 96,2019,Western,Steven Spielberg,Bu film Gerilim türünde bir başyapıttır.,7.9
+Film 97,2014,Fantastik,Martin Scorsese,Bu film Gerilim türünde bir başyapıttır.,6.6
+Film 98,1995,Animasyon,Martin Scorsese,Bu film Müzik türünde bir başyapıttır.,4.7
+Film 99,2006,Fantastik,Ridley Scott,Bu film Korku türünde bir başyapıttır.,6.4
+Film 100,1998,TV Film,David Fincher,Bu film Gerilim türünde bir başyapıttır.,7.8

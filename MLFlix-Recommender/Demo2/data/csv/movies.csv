@@ -1,0 +1,101 @@
+title,release_year,genre,director,description,average_rating
+Film 1,1994,Tarih,Steven Spielberg,Bu film Suç türünde bir başyapıttır.,3.3
+Film 2,2022,Aksiyon,Alfred Hitchcock,Bu film Romantik türünde bir başyapıttır.,5.6
+Film 3,2006,Savaş,Martin Scorsese,Bu film Western türünde bir başyapıttır.,7.5
+Film 4,2021,Fantastik,Ridley Scott,Bu film Suç türünde bir başyapıttır.,7.5
+Film 5,1993,Aksiyon,Steven Spielberg,Bu film Bilim Kurgu türünde bir başyapıttır.,1.7
+Film 6,1997,Aksiyon,James Cameron,Bu film Aile türünde bir başyapıttır.,2.5
+Film 7,1990,Gerilim,Christopher Nolan,Bu film Western türünde bir başyapıttır.,6.0
+Film 8,2008,Gerilim,Alfred Hitchcock,Bu film Tarih türünde bir başyapıttır.,1.9
+Film 9,1997,Tarih,James Cameron,Bu film Korku türünde bir başyapıttır.,1.2
+Film 10,1990,Bilim Kurgu,David Fincher,Bu film Aile türünde bir başyapıttır.,7.4
+Film 11,2006,Fantastik,Alfred Hitchcock,Bu film Korku türünde bir başyapıttır.,8.4
+Film 12,2004,Fantastik,Alfred Hitchcock,Bu film Romantik türünde bir başyapıttır.,1.2
+Film 13,2023,Aile,James Cameron,Bu film Romantik türünde bir başyapıttır.,2.6
+Film 14,2021,TV Film,David Fincher,Bu film Belgesel türünde bir başyapıttır.,5.2
+Film 15,2008,Macera,Christopher Nolan,Bu film Animasyon türünde bir başyapıttır.,9.7
+Film 16,1997,Gizem,Alfred Hitchcock,Bu film Bilim Kurgu türünde bir başyapıttır.,2.0
+Film 17,2020,Fantastik,Christopher Nolan,Bu film Suç türünde bir başyapıttır.,1.1
+Film 18,1995,Korku,Martin Scorsese,Bu film Western türünde bir başyapıttır.,9.1
+Film 19,2004,Romantik,Wes Anderson,Bu film Macera türünde bir başyapıttır.,3.8
+Film 20,1994,Romantik,David Fincher,Bu film TV Film türünde bir başyapıttır.,3.9
+Film 21,1996,Animasyon,James Cameron,Bu film Macera türünde bir başyapıttır.,7.9
+Film 22,2003,Suç,Wes Anderson,Bu film Korku türünde bir başyapıttır.,9.4
+Film 23,2008,Aile,Quentin Tarantino,Bu film Western türünde bir başyapıttır.,6.6
+Film 24,2008,Aksiyon,Steven Spielberg,Bu film Komedi türünde bir başyapıttır.,4.3
+Film 25,2014,Fantastik,Alfred Hitchcock,Bu film Animasyon türünde bir başyapıttır.,3.1
+Film 26,2023,Animasyon,Christopher Nolan,Bu film Fantastik türünde bir başyapıttır.,8.1
+Film 27,2021,Aksiyon,Martin Scorsese,Bu film Tarih türünde bir başyapıttır.,8.1
+Film 28,2011,TV Film,Martin Scorsese,Bu film Aile türünde bir başyapıttır.,9.8
+Film 29,2016,Romantik,David Fincher,Bu film Fantastik türünde bir başyapıttır.,5.6
+Film 30,2014,Macera,Steven Spielberg,Bu film TV Film türünde bir başyapıttır.,8.7
+Film 31,2006,Korku,Christopher Nolan,Bu film Korku türünde bir başyapıttır.,5.6
+Film 32,1991,Aksiyon,Ridley Scott,Bu film Suç türünde bir başyapıttır.,5.5
+Film 33,2006,Western,Quentin Tarantino,Bu film Romantik türünde bir başyapıttır.,2.7
+Film 34,1991,Drama,Steven Spielberg,Bu film Fantastik türünde bir başyapıttır.,7.5
+Film 35,2000,Aksiyon,Quentin Tarantino,Bu film Macera türünde bir başyapıttır.,3.2
+Film 36,1997,Drama,James Cameron,Bu film Macera türünde bir başyapıttır.,3.9
+Film 37,2011,Komedi,Quentin Tarantino,Bu film Macera türünde bir başyapıttır.,5.3
+Film 38,1996,Tarih,Ridley Scott,Bu film Gizem türünde bir başyapıttır.,2.6
+Film 39,2011,Müzik,James Cameron,Bu film Savaş türünde bir başyapıttır.,4.8
+Film 40,1990,Macera,Wes Anderson,Bu film Aile türünde bir başyapıttır.,9.5
+Film 41,2013,Drama,Alfred Hitchcock,Bu film Romantik türünde bir başyapıttır.,5.9
+Film 42,2000,Western,Steven Spielberg,Bu film Suç türünde bir başyapıttır.,3.6
+Film 43,1996,Müzik,Ridley Scott,Bu film Macera türünde bir başyapıttır.,2.0
+Film 44,2011,Romantik,Wes Anderson,Bu film Tarih türünde bir başyapıttır.,5.0
+Film 45,2009,Korku,Alfred Hitchcock,Bu film Müzik türünde bir başyapıttır.,2.3
+Film 46,2004,Komedi,Wes Anderson,Bu film Fantastik türünde bir başyapıttır.,2.1
+Film 47,1998,Aile,Quentin Tarantino,Bu film Korku türünde bir başyapıttır.,7.1
+Film 48,1995,Western,Martin Scorsese,Bu film Aksiyon türünde bir başyapıttır.,8.0
+Film 49,2020,Fantastik,James Cameron,Bu film Savaş türünde bir başyapıttır.,3.4
+Film 50,1993,Fantastik,Christopher Nolan,Bu film Aile türünde bir başyapıttır.,6.4
+Film 51,2017,Korku,Steven Spielberg,Bu film Drama türünde bir başyapıttır.,7.3
+Film 52,1991,Savaş,Quentin Tarantino,Bu film Aksiyon türünde bir başyapıttır.,5.4
+Film 53,1997,Romantik,Ridley Scott,Bu film Aile türünde bir başyapıttır.,1.7
+Film 54,2003,Gizem,Steven Spielberg,Bu film Fantastik türünde bir başyapıttır.,4.4
+Film 55,2013,Müzik,Wes Anderson,Bu film TV Film türünde bir başyapıttır.,1.7
+Film 56,1992,Belgesel,Ridley Scott,Bu film Tarih türünde bir başyapıttır.,1.6
+Film 57,2001,Drama,Wes Anderson,Bu film Drama türünde bir başyapıttır.,1.7
+Film 58,2021,Aile,Wes Anderson,Bu film Suç türünde bir başyapıttır.,8.6
+Film 59,2003,Gizem,Martin Scorsese,Bu film Müzik türünde bir başyapıttır.,7.9
+Film 60,2010,Aksiyon,James Cameron,Bu film Tarih türünde bir başyapıttır.,8.7
+Film 61,2013,Romantik,David Fincher,Bu film Suç türünde bir başyapıttır.,5.3
+Film 62,2010,Fantastik,Wes Anderson,Bu film Fantastik türünde bir başyapıttır.,8.0
+Film 63,2014,Bilim Kurgu,Alfred Hitchcock,Bu film Belgesel türünde bir başyapıttır.,9.4
+Film 64,1998,Komedi,David Fincher,Bu film Belgesel türünde bir başyapıttır.,8.1
+Film 65,1998,Animasyon,Christopher Nolan,Bu film Gizem türünde bir başyapıttır.,8.0
+Film 66,1996,Savaş,David Fincher,Bu film Gerilim türünde bir başyapıttır.,2.2
+Film 67,2006,Gerilim,Ridley Scott,Bu film Romantik türünde bir başyapıttır.,8.5
+Film 68,1997,Korku,Steven Spielberg,Bu film Savaş türünde bir başyapıttır.,7.7
+Film 69,2012,Romantik,Alfred Hitchcock,Bu film Tarih türünde bir başyapıttır.,7.6
+Film 70,1994,Müzik,James Cameron,Bu film Müzik türünde bir başyapıttır.,5.7
+Film 71,2008,Western,Quentin Tarantino,Bu film Bilim Kurgu türünde bir başyapıttır.,8.6
+Film 72,2004,Tarih,Christopher Nolan,Bu film Animasyon türünde bir başyapıttır.,8.7
+Film 73,2002,Tarih,Wes Anderson,Bu film TV Film türünde bir başyapıttır.,2.6
+Film 74,1993,Fantastik,James Cameron,Bu film Aksiyon türünde bir başyapıttır.,3.6
+Film 75,2007,Savaş,David Fincher,Bu film Aksiyon türünde bir başyapıttır.,4.4
+Film 76,2003,Western,Christopher Nolan,Bu film Romantik türünde bir başyapıttır.,1.8
+Film 77,1990,Fantastik,Ridley Scott,Bu film Aksiyon türünde bir başyapıttır.,8.0
+Film 78,1992,Western,Quentin Tarantino,Bu film Gizem türünde bir başyapıttır.,5.6
+Film 79,2017,Western,Christopher Nolan,Bu film Gizem türünde bir başyapıttır.,4.1
+Film 80,2023,Gerilim,Martin Scorsese,Bu film Suç türünde bir başyapıttır.,3.2
+Film 81,2010,Bilim Kurgu,David Fincher,Bu film TV Film türünde bir başyapıttır.,3.8
+Film 82,2021,Müzik,Quentin Tarantino,Bu film Bilim Kurgu türünde bir başyapıttır.,5.2
+Film 83,1993,Komedi,James Cameron,Bu film Gerilim türünde bir başyapıttır.,7.9
+Film 84,2004,Animasyon,David Fincher,Bu film Gizem türünde bir başyapıttır.,6.1
+Film 85,2000,Drama,Christopher Nolan,Bu film Müzik türünde bir başyapıttır.,6.8
+Film 86,2015,Animasyon,Ridley Scott,Bu film Gerilim türünde bir başyapıttır.,7.3
+Film 87,2021,Müzik,David Fincher,Bu film Korku türünde bir başyapıttır.,8.1
+Film 88,2003,Müzik,Steven Spielberg,Bu film Müzik türünde bir başyapıttır.,7.9
+Film 89,1990,Western,James Cameron,Bu film Gizem türünde bir başyapıttır.,7.3
+Film 90,1997,Western,Ridley Scott,Bu film Western türünde bir başyapıttır.,1.5
+Film 91,1991,Tarih,Christopher Nolan,Bu film Gizem türünde bir başyapıttır.,3.8
+Film 92,2011,Belgesel,Quentin Tarantino,Bu film Korku türünde bir başyapıttır.,6.2
+Film 93,2019,Korku,Ridley Scott,Bu film Suç türünde bir başyapıttır.,3.0
+Film 94,2022,Animasyon,Ridley Scott,Bu film Gerilim türünde bir başyapıttır.,5.9
+Film 95,1991,Savaş,Wes Anderson,Bu film Komedi türünde bir başyapıttır.,3.6
+Film 96,2002,Aksiyon,David Fincher,Bu film Aile türünde bir başyapıttır.,5.8
+Film 97,2011,Belgesel,Steven Spielberg,Bu film Romantik türünde bir başyapıttır.,3.0
+Film 98,1991,Gerilim,James Cameron,Bu film Romantik türünde bir başyapıttır.,5.6
+Film 99,2016,TV Film,Quentin Tarantino,Bu film Western türünde bir başyapıttır.,3.5
+Film 100,2018,Gizem,Quentin Tarantino,Bu film Macera türünde bir başyapıttır.,1.7
